@@ -8,13 +8,14 @@
 ## Questions
 
 1. In Python, what symbol do you use to assign a value to a variable?
-    -  Answer here
+    -  the = symbol
 
 2. In plain English, explain the difference between **string data** data and **numeric data**.
-    -  Answer here
+    -  String data is alphabetical values
+    -  numeric data is number values
 
 
 3. List 2 - 3 guidelines to keep in mind when naming your Python variables.
     -  Write the name of your Python variable in lowercase
-    -  Answer here
-    -  Answer here
+    -  make sure to not have spaces
+    -  use short and easy to understand names for your variables
