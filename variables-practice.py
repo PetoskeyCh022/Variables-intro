@@ -15,10 +15,13 @@
 
 # Part 1 / Working with Text (String  Data)
 # Define a variable called school and assign it the string value Career Tech (using a pair of single quotes)
+school = 'Career Tech'
 # Define a variable called favorite_singer and assign it the string value that is your favorite singer (using a pair of double quotes)
+favorite_singer = "TheLivingTombstone"
 # Define a variable called greeting and assign it a string value you'd use to greet someone (Good morning, Good afternoon, etc.)
+greeting = "Good morning"
 # Use the print function to print the value of one of three variables you created in Part 1
-
+print(greeting)
 
 
 
