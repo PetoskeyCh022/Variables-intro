@@ -31,9 +31,9 @@ my_age = 17
 # Define a variable called conversion_factor and assign it the value of 2.54 (a float/floating-point number)
 conversion_factpror = 2.54
 # Define a variable called book_price and assign it a value of 20.99 (a float/floating-point number)
-
+book_price = 20.99
 # Use the print function to print the value of one of three variables you created in Part 2
-
+print(book_price)
 
 
 
@@ -41,5 +41,11 @@ conversion_factpror = 2.54
 # Create three different variables, one for each piece of data described below
 # Remember to follow the rules for naming Python variables
 # Use the print function to print your first name on your screen
+first_name = 'Charles'
+print(first_name)
 # Use the print function to print the name of the city you live in on your screen
+home_city = 'Suttons Bay'
+print(home_city)
 # Use the print function to print your age on your computer screen
+age = 17
+print(age)
